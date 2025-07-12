@@ -4,9 +4,7 @@ A Python-based interactive simulation of Buffon's Needle experiment, a classic M
 
 The ratio of the number of sticks that touch a line to the total number of sticks tends to approach pi
 
-![BuffonsNeedle - Made with Clipchamp (1)](https://github.com/user-attachments/assets/f80916db-4b57-4194-b147-b960fc5e1d53)
-<img width="1783" height="946" alt="image" src="https://github.com/user-attachments/assets/b7dd21a3-6a99-457b-a5a1-f61d2b3a9767" />
-
+![BuffonsNeedle - Made with Clipchamp (3)](https://github.com/user-attachments/assets/c88c84c2-6010-4d4b-8033-40ccdfbe70ab)
 
 Basically, it is a probability experiment that estimates π by analyzing the likelihood of a needle crossing parallel lines when dropped at random. Given a stick length L and the line spacing D (with L ≤ D), the probability of a cross is 2L/πD
 
